@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h2{
+    margin: auto;
+    font-size: 2em;
+}
+td{
+    font-family: cursive;
+    border-bottom: 1px solid;
+}
+img {
+  border-radius: 40%;
+}
